@@ -1,0 +1,24 @@
+enter the stebilizer function
+ontn 1
+total distance
+43.00
+34.00
+50.00
+38.00
+internal_y
+92
+internal_x
+105
+ref_y
+92
+delay weigth
+1200
+total distance
+36.00
+26.00
+48.00
+24.00
+internal_y
+70
+internal_x
+96

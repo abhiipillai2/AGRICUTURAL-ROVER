@@ -1,0 +1,186 @@
+total y
+71
+YD_PING_DISTANCE
+16.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+16.00
+total x
+97
+total y
+71
+YD_PING_DISTANCE
+17.00
+total x
+96
+total y
+70
+YD_PING_DISTANCE
+16.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+16.00
+total x
+98
+total y
+70
+YD_PING_DISTANCE
+19.00
+total x
+96
+total y
+69
+YD_PING_DISTANCE
+18.00
+total x
+95
+total y
+71
+YD_PING_DISTANCE
+20.00
+total x
+95
+total y
+71
+YD_PING_DISTANCE
+20.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+19.00
+total x
+97
+total y
+71
+YD_PING_DISTANCE
+20.00
+total x
+97
+total y
+72
+YD_PING_DISTANCE
+20.00
+total x
+98
+total y
+76
+YD_PING_DISTANCE
+26.00
+total x
+87
+total y
+78
+YD_PING_DISTANCE
+27.00
+total x
+85
+total y
+87
+YD_PING_DISTANCE
+30.00
+total x
+79
+total y
+87
+YD_PING_DISTANCE
+30.00
+total x
+79
+total y
+92
+YD_PING_DISTANCE
+35.00
+total x
+80
+total y
+92
+YD_PING_DISTANCE
+35.00
+total x
+80
+total y
+92
+YD_PING_DISTANCE
+35.00
+total x
+79
+total y
+92
+YD_PING_DISTANCE
+35.00
+total x
+79
+total y
+92
+YD_PING_DISTANCE
+35.00
+total x
+79
+total y
+71
+YD_PING_DISTANCE
+25.00
+total x
+90
+total y
+70
+YD_PING_DISTANCE
+24.00
+total x
+96
+total y
+69
+YD_PING_DISTANCE
+23.00
+total x
+96
+total y
+69
+YD_PING_DISTANCE
+23.00
+total x
+97
+total y
+69
+YD_PING_DISTANCE
+23.00
+total x
+97
+total y
+69
+YD_PING_DISTANCE
+23.00
+total x
+97
+total y
+71
+YD_PING_DISTANCE
+24.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+24.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+24.00
+total x
+97
+total y
+70
+YD_PING_DISTANCE
+24.00
+total x
+96

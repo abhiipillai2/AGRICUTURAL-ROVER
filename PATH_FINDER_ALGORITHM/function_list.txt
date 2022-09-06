@@ -1,0 +1,19 @@
+//bot stebilizer
+bot_stebilizer ();
+
+//clock-right
+bot_clock();
+
+//anti-clock-left
+bot_anti_clock();
+
+//engin_stop
+bot_engine_stop();
+
+//forward
+bot_forward();
+
+//backward
+bot_backward();
+
+18002587555
